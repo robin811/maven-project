@@ -2,6 +2,7 @@ package com.example;
 
 /**
  * This is a class.
+ * this is poll scm test
  */
 public class Greeter {
 
